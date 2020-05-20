@@ -1,0 +1,91 @@
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  color: #66BFBF;
+  line-height: 1;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2rem;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.top_container {
+  background-color: #e3fdfd;
+}
+
+.cloud_1 {
+  margin-left: 500px;
+  padding-top: 50px;
+}
+
+.cloud_2 {
+  position: absolute;
+  padding-top: 30px;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 200%;
+}
+
+.programming_img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.comm_img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+  width: 3.5rem;
+  border-color: #EAF6F6;
+}
+
+.bottom-container {
+  line-height: 2;
+  background-color: #66BFBF;
+  padding-bottom: .1rem;
+}
+
+.bottom-container a {
+  padding: 1.5rem;
+  font-weight: 600;
+}
+
+p {
+  font-weight: 500;
+  color: #40514E;
+}
